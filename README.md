@@ -4,7 +4,11 @@
 
 # RTAB-Map SLAM with NVIDIA Isaac Sim (Carter Robot)
 
-> **RGB-D + LiDAR + Odometry SLAM with full TF sync, RViz visualization, and Nav2-ready navigation**
+#### Active Mapping
+![Mapping Screenshot](rtab1.png)
+
+#### Isaac sim
+![Localization Screenshot](rtab2.png)
 
 This repository documents a **working, reproducible setup** for running **RTAB-Map SLAM inside NVIDIA Isaac Sim** using the **Carter robot**, featuring:
 
