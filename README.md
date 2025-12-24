@@ -5,7 +5,7 @@
 # RTAB-Map SLAM with NVIDIA Isaac Sim (Carter Robot)
 
 #### Active Mapping
-![Mapping Screenshot](rtab1.png)
+![Mapping Screenshot](maps.png)
 
 #### Isaac sim
 ![Localization Screenshot](rtab2.png)
