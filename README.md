@@ -1,5 +1,3 @@
-Here is the content converted into a clean, professionally formatted Markdown (`.md`) file. I have corrected the syntax errors (like the broken code blocks and unformatted lists) and organized the hierarchy for better readability.
-
 ---
 
 # RTAB-Map SLAM with NVIDIA Isaac Sim (Carter Robot)
